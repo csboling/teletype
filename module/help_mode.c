@@ -94,7 +94,7 @@ const char* help2[HELP2_LENGTH] = { "2/13 VARIABLES",
                                     "Q.AVG|AVERAGE OF ALL Q",
                                     "J, K|UNIQUE PER SCRIPT" };
 
-#define HELP3_LENGTH 30
+#define HELP3_LENGTH 31
 const char* help3[HELP3_LENGTH] = { "3/13 PARAMETERS",
                                     " ",
                                     "TR A-D|SET TR VALUE (0,1)",
